@@ -3,7 +3,7 @@ User can make a request to open weather api and can request the data for the cit
 This app is using promises and callbacks plus "async and await". "fetch" is used to get the data from openweather api.
 
 
-To run the project, Download or clone it on your machine and open index.html on your browser.
+Live Demo: https://shoaibjalal.github.io/WeatherApp/
 
 <img src="img/screenshot.PNG" />
 <img src="img/screenshot2.PNG" />
